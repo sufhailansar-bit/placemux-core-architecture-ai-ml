@@ -1,2 +1,4 @@
 run_id,accuracy
-001,0.85
+run_1,0.87
+run_2,0.89
+run_3,0.91
