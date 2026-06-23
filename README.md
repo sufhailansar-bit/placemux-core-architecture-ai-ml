@@ -27,3 +27,14 @@ Missing values, invalid paths and empty datasets are considered.
 
 ## Future Improvements
 Integration with advanced machine learning models.
+Project Flow
+
+Data
+ ↓
+Feature Engineering
+ ↓
+Model Training
+ ↓
+Evaluation
+ ↓
+Metrics Logging
